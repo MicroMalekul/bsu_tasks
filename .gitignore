@@ -1,0 +1,9 @@
+.clangd
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/tasks.json
+task3/main
+task4/main
+task5/main
+task2/main
+task1/main
